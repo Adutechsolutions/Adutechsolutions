@@ -1,68 +1,105 @@
 # 👋 Hello, I'm Abujahili Daudi Uhahula
 
-## Founder of ADU Tech Solutions 💙💚
+# 💙 ADU Tech Solutions
 
-**Smart Technology. Reliable Solutions.**
+## Smart Technology. Reliable Solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Solar & IT Technician from Tanzania with experience in:
+I'm an Information Technology and Solar Technician from Tanzania with practical experience in public infrastructure and smart technology solutions.
 
-- ☀️ Solar Energy Systems
-- 💡 Street Lights Installation & Maintenance
-- 🚦 Traffic Lights Installation & Maintenance
-- 🌐 Computer Networking
-- 📹 CCTV Installation
+I specialize in:
+
+- ☀ Solar PV Systems
+- 💡 Solar Street Lighting
+- 🚦 Traffic Signal Systems
 - ⚡ Electrical Installation
-- 🛠️ Technical Support
+- 🌐 Computer Networking
+- 📹 CCTV Systems
+- 🔧 Maintenance & Troubleshooting
+- 💻 IT Support
 
 ---
 
-## 🛠️ Skills
+# 🌍 Regions Worked
 
-- Solar PV Systems
+🇹🇿 Tanzania
+
+📍 Kilimanjaro
+
+📍 Tanga
+
+📍 Njombe
+
+📍 Iringa
+
+📍 Ruvuma
+
+📍 Manyara
+
+---
+
+# 🚀 Services
+
+✅ Solar Installation
+
+✅ Solar Maintenance
+
+✅ Street Lights Installation
+
+✅ Traffic Lights Installation
+
+✅ CCTV Installation
+
+✅ Network Installation
+
+✅ Electrical Installation
+
+✅ IT Support
+
+---
+
+# 🛠 Technical Skills
+
+- Solar PV
 - Street Lighting
-- Traffic Light Systems
-- CCTV Systems
+- Traffic Signals
 - Networking
+- CCTV
 - Electrical Installation
 - IT Support
-- Maintenance & Troubleshooting
+- Python (Learning)
+- MySQL
+- SQL Server
 
 ---
 
-## 📍 Project Experience
+# 📈 Current Mission
 
-### Street Lights
-- Kilimanjaro
-- Tanga
-- Njombe
-- Iringa
-- Ruvuma
-- Manyara
+Building reliable technology solutions through:
 
-### Traffic Lights
-- Bomang'ombe
-- Makambako
-- Wanging'ombe
-- Njombe
-- Ludewa
-- Songea
+💙 Smart Technology
+
+💚 Reliable Solutions
 
 ---
 
-## 📫 Contact
+# 📫 Contact
+
+📧 Email
+
+abjahilid2@gmail.com
 
 📍 Njombe, Tanzania
-
-📧 Email: abjahilid2@gmail.com
 
 🏢 ADU Tech Solutions
 
 ---
 
-### 💙 ADU Tech Solutions
+## 🚀 Learn. Build. Earn.
+
+### ADU Tech Solutions
 
 **Smart Technology. Reliable Solutions.**
