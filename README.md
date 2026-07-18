@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="ADU Tech Solutions Banner" width="100%">
+</p>
+
 # 👋 Hello, I'm Abujahili Daudi Uhahula
 
 # 💙 ADU Tech Solutions
