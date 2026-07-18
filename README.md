@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hello, I'm Abujahili Daudi Uhahula
 
-<!--
-**Adutechsolutions/Adutechsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Founder of ADU Tech Solutions 💙💚
 
-Here are some ideas to get you started:
+**Smart Technology. Reliable Solutions.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a Solar & IT Technician from Tanzania with experience in:
+
+- ☀️ Solar Energy Systems
+- 💡 Street Lights Installation & Maintenance
+- 🚦 Traffic Lights Installation & Maintenance
+- 🌐 Computer Networking
+- 📹 CCTV Installation
+- ⚡ Electrical Installation
+- 🛠️ Technical Support
+
+---
+
+## 🛠️ Skills
+
+- Solar PV Systems
+- Street Lighting
+- Traffic Light Systems
+- CCTV Systems
+- Networking
+- Electrical Installation
+- IT Support
+- Maintenance & Troubleshooting
+
+---
+
+## 📍 Project Experience
+
+### Street Lights
+- Kilimanjaro
+- Tanga
+- Njombe
+- Iringa
+- Ruvuma
+- Manyara
+
+### Traffic Lights
+- Bomang'ombe
+- Makambako
+- Wanging'ombe
+- Njombe
+- Ludewa
+- Songea
+
+---
+
+## 📫 Contact
+
+📍 Njombe, Tanzania
+
+📧 Email: abjahilid2@gmail.com
+
+🏢 ADU Tech Solutions
+
+---
+
+### 💙 ADU Tech Solutions
+
+**Smart Technology. Reliable Solutions.**
