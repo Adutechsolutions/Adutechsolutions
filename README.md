@@ -114,3 +114,8 @@ abjahilid2@gmail.com
   <img src="https://github-readme-stats.vercel.app/api?username=Adutechsolutions&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adutechsolutions&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adutechsolutions&theme=tokyonight&hide_border=true"/>
+</p>
