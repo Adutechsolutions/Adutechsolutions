@@ -112,7 +112,7 @@ abjahilid2@gmail.com
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adutechsolutions&show_icons=true&theme=github_dark"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-lang
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adutechsolutions&layout=compact&theme=github_dark"/>
 
 ## 🔥 GitHub Streak
 
