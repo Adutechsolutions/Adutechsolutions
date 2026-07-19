@@ -110,11 +110,10 @@ abjahilid2@gmail.com
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adutechsolutions&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adutechsolutions&show_icons=true&theme=github_dark"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adutechsolutions&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-lang
+
 ## 🔥 GitHub Streak
 
 <p align="center">
