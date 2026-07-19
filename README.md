@@ -110,8 +110,6 @@ abjahilid2@gmail.com
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Adutechsolutions&show_icons=true&theme=github_dark" />
 
